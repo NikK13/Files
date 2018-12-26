@@ -1,0 +1,165 @@
+{
+  "players": [
+    {
+      "name": "Denis Scherbitski",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250055182.jpg",
+      "position": "GK",
+      "number": 48,
+      "country":"BLR"
+    },
+    {
+      "name": "Anton Chichkan",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250084987.jpg",
+      "position": "GK",
+      "number": 35,
+      "country":"BLR"
+    },
+    {
+      "name": "Aleksandr Svirski",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250089870.jpg",
+      "position": "GK",
+      "number": 28,
+      "country":"BLR"
+    },
+    {
+      "name": "Aleksandr Chernykh",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250087556.jpg",
+      "position": "GK",
+      "number": 30,
+      "country":"BLR"
+    },
+    {
+      "name": "Aleksandar Filipovic",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250027691.jpg",
+      "position": "DEF",
+      "number": 4,
+      "country":"SRB"
+    },
+    {
+      "name": "Nikola Vasiljevic",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250099584.jpg",
+      "position": "DEF",
+      "number":6,
+      "country":"SRB"
+    },
+    {
+      "name": "Aleksei Rios",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1902972.jpg",
+      "position": "DEF",
+      "number": 17,
+      "country":"BLR"
+    },
+    {
+      "name": "Egor Filipenko",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/96725.jpg",
+      "position": "DEF",
+      "number": 21,
+      "country":"Belarus"
+    },
+    {
+      "name": "Zakhar Volkov",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250109267.jpg",
+      "position": "DEF",
+      "number": 23,
+      "country":"BLR"
+    },
+    {
+      "name": "Evgeni Yablonski",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250061655.jpg",
+      "position": "MID",
+      "number": 5,
+      "country":"BLR"
+    },
+    {
+      "name": "Evgeni Berezkin",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250078732.jpg",
+      "position": "MID",
+      "number": 7,
+      "country":"BLR"
+    },
+    {
+      "name": "Mirko Ivanic",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250052849.jpg",
+      "position": "MID",
+      "number": 10,
+      "country":"MNG"
+    },
+    {
+      "name": "Igor Stasevich",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/94720.jpg",
+      "position": "MID",
+      "number": 22,
+      "country":"BLR"
+    },
+    {
+      "name": "Dmitry Baga",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1903601.jpg",
+      "position": "MID",
+      "number": 25,
+      "country":"BLR"
+    },
+    {
+      "name": "Slobodan Simovic",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250020450.jpg",
+      "position": "MID",
+      "number": 27,
+      "country":"SRB"
+    },
+    {
+      "name": "Aleksandr Nyamirko",
+      "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/6ebad84bc21d469679adc98119820634.png",
+      "position": "MID",
+      "number": 43,
+      "country":"BLR"
+    },
+    {
+      "name": "Hervaine Moukam",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250122207.jpg",
+      "position": "MID",
+      "number": 94,
+      "country":"FRA"
+    },
+    {
+      "name": "Jasse Tuominen",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250090754.jpg",
+      "position": "ST",
+      "number": 24,
+      "country":"FIN"
+    },
+    {
+      "name": "Kirill Ermakovich",
+      "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/d26173025d8e65f20b515aca08214208.png",
+      "position": "ST",
+      "number": 53,
+      "country":"BLR"
+    },
+    {
+      "name": "Vladislav Mukhamedov",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250076209.jpg",
+      "position": "ST",
+      "number": 45,
+      "country":"BLR"
+    },
+    {
+      "name": "Maksim Skavysh",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1903602.jpg",
+      "position": "ST",
+      "number": 15,
+      "country":"BLR"
+    },
+    {
+      "name": "Mikhail Gordeychuk",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250011531.jpg",
+      "position": "ST",
+      "number": 62,
+      "country":"BLR"
+    },
+    {
+      "name": "Bojan Dubajic",
+      "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/2658d0bb3b0c8ff92d09145ca98b789c.png",
+      "position": "ST",
+      "number": 0,
+      "country":"SRB"
+    }
+  ]
+}
