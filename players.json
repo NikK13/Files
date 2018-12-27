@@ -5,155 +5,207 @@
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250055182.jpg",
       "position": "GK",
       "number": 48,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "14.04.1996",
+      "url":"https://fcbate.by/ru/team/first-team/id8500"
     },
     {
       "name": "Anton Chichkan",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250084987.jpg",
       "position": "GK",
       "number": 35,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "10.07.1995",
+      "url":"https://fcbate.by/ru/team/first-team/id7188"
     },
     {
       "name": "Aleksandr Svirski",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250089870.jpg",
       "position": "GK",
       "number": 28,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "28.02.1999",
+      "url":"https://fcbate.by/ru/team/first-team/id9287"
     },
     {
       "name": "Aleksandr Chernykh",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250087556.jpg",
       "position": "GK",
       "number": 30,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "30.06.1998",
+      "url":"https://fcbate.by/ru/team/first-team/id9286"
     },
     {
       "name": "Aleksandar Filipovic",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250027691.jpg",
       "position": "DEF",
       "number": 4,
-      "country":"SRB"
+      "country":"SRB",
+      "birth": "20.12.1994",
+      "url":"https://fcbate.by/ru/team/first-team/id10006"
     },
     {
       "name": "Nikola Vasiljevic",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250099584.jpg",
       "position": "DEF",
       "number":6,
-      "country":"SRB"
+      "country":"SRB",
+      "birth": "30.06.1991",
+      "url":"https://fcbate.by/ru/team/first-team/id10007"
     },
     {
       "name": "Aleksei Rios",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1902972.jpg",
       "position": "DEF",
       "number": 17,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "14.05.1987",
+      "url":"https://fcbate.by/ru/team/first-team/id3762"
     },
     {
       "name": "Egor Filipenko",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/96725.jpg",
       "position": "DEF",
       "number": 21,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "10.04.1988",
+      "url":"https://fcbate.by/ru/team/first-team/id3859"
     },
     {
       "name": "Zakhar Volkov",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250109267.jpg",
       "position": "DEF",
       "number": 23,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "12.08.1997",
+      "url":"https://fcbate.by/ru/team/first-team/id8990"
     },
     {
       "name": "Evgeni Yablonski",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250061655.jpg",
       "position": "MID",
       "number": 5,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "10.05.1995",
+      "url":"https://fcbate.by/ru/team/first-team/id7185"
     },
     {
       "name": "Evgeni Berezkin",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250078732.jpg",
       "position": "MID",
       "number": 7,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "05.07.1996",
+      "url":"https://fcbate.by/ru/team/first-team/id8696"
+    },
+    {
+      "name": "Stanislav Dragun",
+      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/96700.jpg",
+      "position": "MID",
+      "number": 8,
+      "country":"BLR",
+      "birth": "04.06.1988",
+      "url":"https://fcbate.by/ru/team/first-team/id3166"
     },
     {
       "name": "Mirko Ivanic",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250052849.jpg",
       "position": "MID",
       "number": 10,
-      "country":"MNG"
+      "country":"MNG",
+      "birth": "13.09.1993",
+      "url":"https://fcbate.by/ru/team/first-team/id9279"
     },
     {
       "name": "Igor Stasevich",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/94720.jpg",
       "position": "MID",
       "number": 22,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "21.10.1985",
+      "url":"https://fcbate.by/ru/team/first-team/id2913"
     },
     {
       "name": "Dmitry Baga",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1903601.jpg",
       "position": "MID",
       "number": 25,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "04.01.1990",
+      "url":"https://fcbate.by/ru/team/first-team/id4265"
     },
     {
       "name": "Slobodan Simovic",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250020450.jpg",
       "position": "MID",
       "number": 27,
-      "country":"SRB"
+      "country":"SRB",
+      "birth": "22.05.1989",
+      "url":"https://fcbate.by/ru/team/first-team/id7116"
     },
     {
       "name": "Aleksandr Nyamirko",
       "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/6ebad84bc21d469679adc98119820634.png",
       "position": "MID",
       "number": 43,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "08.02.2000",
+      "url":"https://fcbate.by/ru/team/reserves/id9598"
     },
     {
       "name": "Hervaine Moukam",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250122207.jpg",
       "position": "MID",
       "number": 94,
-      "country":"FRA"
+      "country":"FRA",
+      "birth": "24.05.1994",
+      "url":"https://fcbate.by/ru/team/first-team/id10063"
     },
     {
       "name": "Jasse Tuominen",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250090754.jpg",
       "position": "ST",
       "number": 24,
-      "country":"FIN"
+      "country":"FIN",
+      "birth": "12.11.1995",
+      "url":"https://fcbate.by/ru/team/first-team/id9593"
     },
     {
       "name": "Kirill Ermakovich",
       "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/d26173025d8e65f20b515aca08214208.png",
       "position": "ST",
       "number": 53,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "11.01.1999",
+      "url":"https://fcbate.by/ru/team/reserves/id9561"
     },
     {
       "name": "Vladislav Mukhamedov",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250076209.jpg",
       "position": "ST",
       "number": 45,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "04.01.1998",
+      "url":"https://fcbate.by/ru/team/first-team/id8902"
     },
     {
       "name": "Maksim Skavysh",
       "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/1903602.jpg",
       "position": "ST",
       "number": 15,
-      "country":"BLR"
+      "country":"BLR",
+      "birth": "13.11.1989",
+      "url":"https://fcbate.by/ru/team/first-team/id4267"
     },
     {
       "name": "Bojan Dubajic",
       "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/2658d0bb3b0c8ff92d09145ca98b789c.png",
       "position": "ST",
       "number": 0,
-      "country":"SRB"
+      "country":"SRB",
+      "birth": "01.09.1990",
+      "url":"https://fcbate.by/ru/team/first-team/id9759"
     }
   ]
 }
-    
