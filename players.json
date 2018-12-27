@@ -148,13 +148,6 @@
       "country":"BLR"
     },
     {
-      "name": "Mikhail Gordeychuk",
-      "image": "https://img.uefa.com/imgml/TP/players/14/2019/324x324/250011531.jpg",
-      "position": "ST",
-      "number": 62,
-      "country":"BLR"
-    },
-    {
       "name": "Bojan Dubajic",
       "image": "https://s8.hostingkartinok.com/uploads/images/2018/12/2658d0bb3b0c8ff92d09145ca98b789c.png",
       "position": "ST",
@@ -163,3 +156,4 @@
     }
   ]
 }
+    
